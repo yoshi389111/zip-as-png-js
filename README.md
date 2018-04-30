@@ -1,4 +1,4 @@
-# ZipAsPng.js [![Build Status](https://travis-ci.org/yoshi389111/zip-as-png-js.svg?branch=master)](https://travis-ci.org/yoshi389111/ZipAsPng.js)
+# ZipAsPng.js [![Build Status](https://travis-ci.org/yoshi389111/zip-as-png-js.svg?branch=master)](https://travis-ci.org/yoshi389111/zip-as-png.js)
 
 disguise zip to png
 
